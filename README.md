@@ -27,7 +27,7 @@ AULAS DE REFORÇO/
     ...
 ```
 
-## 📖 Detalhamento das Aulas
+## 📖 Detalhes das Aulas
 
 ### 🔧 **Aula 01 - Instalação**
 > Configuração do ambiente de desenvolvimento Java
@@ -86,13 +86,13 @@ AULAS DE REFORÇO/
 
 ```bash
 # Navegar até a pasta do código
-cd "caminho/para/o/arquivo"
+cd "caminho/para/o/ficheiro"
 
-# Compilar arquivo Java
-javac NomeDoArquivo.java
+# Compilar ficheiro Java
+javac NomeDoficheiro.java
 
 # Executar programa compilado
-java NomeDoArquivo
+java NomeDoficheiro
 ```
 
 ## 📚 Conteúdo Programático
@@ -144,7 +144,7 @@ Após completar este módulo, você estará preparado para:
 - 🏗️ **Métodos** (Classes, Objetos, Herança)
 - 🛠️ **Projetos Práticos**
 
-## 🏆 Progresso do Curso
+## 🏆 Progresso das aulas
 
 - [x] ✅ Aula 01 - Instalação
 - [x] ✅ Aula 02 - Variáveis  
