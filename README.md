@@ -5,7 +5,7 @@ Este repositório é destinado para os estudantes que fazem as aulas de reforço
 
 Aqui o estudante pode encontrar o material completo das aulas de reforco de programação I, incluindo aulas teóricas, códigos práticos e exercícios para fixação do conteúdo.
 
-## 🗂️ Estrutura do Curso
+## 🗂️ Estrutura
 
 ```
 AULAS DE REFORÇO/
