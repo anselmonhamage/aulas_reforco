@@ -14,7 +14,7 @@ public class EntradaDados {
 		System.out.println(raizQuadrada);
 		
         // Raíz quadrada usando método sqrt(Raíz Quadrada)
-		raizQuadrada = Math.sqrt(num) + 5;
+		raizQuadrada = Math.sqrt(num);
 		System.out.print(raizQuadrada);
 
         entrada.close();
