@@ -23,6 +23,7 @@ AULAS DE REFORÇO/
 │       ├── Desafio01.java
 │       └── PDFs de exercícios
 └── Aula 04 - Estruturas Condicionais/
+    ├── Material Prático
     └── Material Teórico
     ...
 ```
@@ -116,10 +117,10 @@ java NomeDoficheiro
 - ✅ **Atribuição:** `=`, `+=`, `-=`, `*=`, `/=`
 
 ### 🔀 **Módulo 4: Estruturas Condicionais**
-- 🔄 Comando `if` / `else`
-- 🔄 Estrutura `switch` / `case`
+- ✅ Comando `if` / `else`
+- ✅ Estrutura `switch` / `case`
 - 🔄 Operador ternário `? :`
-- 🔄 Condições aninhadas
+- ✅ Condições aninhadas
 
 ## 📞 Suporte e Recursos
 
@@ -149,7 +150,7 @@ Após completar este módulo, você estará preparado para:
 - [x] ✅ Aula 01 - Instalação
 - [x] ✅ Aula 02 - Variáveis  
 - [x] ✅ Aula 03 - Operadores
-- [ ] 🔄 Aula 04 - Estruturas Condicionais
+- [x] ✅ Aula 04 - Estruturas Condicionais
 - [ ] ⏳ Próximas aulas...
 
 ## Lecionador
