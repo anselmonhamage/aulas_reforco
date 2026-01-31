@@ -5,6 +5,8 @@ Este repositório é destinado para os estudantes que fazem as aulas de reforço
 
 Aqui o estudante pode encontrar o material completo das aulas de reforco de programação I, incluindo aulas teóricas, códigos práticos e exercícios para fixação do conteúdo.
 
+### **Aula 01 - Instalação e Configuração do Ambiente de Desenvolvimento**
+
 **📋 Material Teórico:**
 - `Eclipse.pdf` - Guia completo de instalação do Eclipse IDE OBS.: Os direitos desse material são atribuidos ao seu criador Msc Amilcar González
 - `Instalação_JDK_Termux.docx/.pdf` - Tutorial para Android (Termux + OpenJDK)
@@ -12,7 +14,7 @@ Aqui o estudante pode encontrar o material completo das aulas de reforco de prog
 **💻 Códigos Práticos:**
 - `Hello.java` - Primeiro programa "Hello World"
 
-### 📊 **Aula 02-3 - Variáveis e Operadores**
+### **Aula 02-3 - Variáveis e Operadores**
 > Fundamentos sobre tipos de dados e operações em Java
 
 **📋 Material Teórico:**
@@ -27,7 +29,7 @@ Aqui o estudante pode encontrar o material completo das aulas de reforco de prog
 - `Desafio01.java` - Exercícios práticos para fixação
 - PDFs com listas de exercícios das aulas 02 e 03
 
-### 🔀 **Aula 04 - Estruturas Condicionais**
+### **Aula 04 - Estruturas Condicionais**
 > Controle de fluxo com estruturas de decisão
 
 **📋 Material Teórico:**
