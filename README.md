@@ -15,7 +15,6 @@ Aqui o estudante pode encontrar o material completo das aulas de reforco de prog
 - `Hello.java` - Primeiro programa "Hello World"
 
 ### **Aula 02-3 - Variáveis e Operadores**
-> Fundamentos sobre tipos de dados e operações em Java
 
 **📋 Material Teórico:**
 - Slides UDG sobre variáveis e tipos primitivos
@@ -30,7 +29,6 @@ Aqui o estudante pode encontrar o material completo das aulas de reforco de prog
 - PDFs com listas de exercícios das aulas 02 e 03
 
 ### **Aula 04 - Estruturas Condicionais**
-> Controle de fluxo com estruturas de decisão
 
 **📋 Material Teórico:**
 - Teoria sobre if/else, switch/case e estruturas condicionais
