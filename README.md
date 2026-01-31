@@ -1,32 +1,9 @@
 # Aulas de Reforco ☕
-Este repositório é destinado para os estudantes que fazem as aulas de reforço em programa I - FCTI
+Este repositório é destinado para os estudantes que fazem as aulas de reforço em programação I - FCTI USTM
 
 ## 📚 Sobre as Aulas
 
 Aqui o estudante pode encontrar o material completo das aulas de reforco de programação I, incluindo aulas teóricas, códigos práticos e exercícios para fixação do conteúdo.
-
-## 🗂️ Estrutura
-
-```
-AULAS DE REFORÇO/
-├── Aula 01 - Instalação/
-│   ├── Eclipse.pdf
-│   ├── Instalação_JDK_Termux.pdf
-│   └── Código/
-│       └── Hello.java
-├── Aula 02-3 - Variáveis e Operadores/
-│   ├── Material Teórico (PDFs)
-│   ├── Código/
-│   │   ├── Aula02.java
-│   │   └── Aula03.java
-│   └── Exercícios/
-│       ├── Desafio01.java
-│       └── PDFs de exercícios
-└── Aula 04 - Estruturas Condicionais/
-    ├── Material Prático
-    └── Material Teórico
-    ...
-```
 
 ## 📖 Detalhes das Aulas
 
@@ -44,7 +21,7 @@ AULAS DE REFORÇO/
 > Fundamentos sobre tipos de dados e operações em Java
 
 **📋 Material Teórico:**
-- Slides UDG Group sobre variáveis e tipos primitivos
+- Slides UDG sobre variáveis e tipos primitivos
 - Material complementar sobre operadores
 
 **💻 Códigos Práticos:**
@@ -66,13 +43,13 @@ AULAS DE REFORÇO/
 ### ✅ Pré-requisitos
 - **JDK** (Java Development Kit) versão 8 ou superior
 - **IDE** - Eclipse (recomendado), NetBeans, Aplicativo de notas ou IntelliJ IDEA
-- **Para Android:** Termux com OpenJDK
+- **Para Android:** Termux com OpenJDK ou qualquer aplicativo para prática
 
 ### ⚙️ Configuração do Ambiente
 
 #### 🖥️ Desktop (Windows/Linux/Mac)
 1. Siga o guia detalhado em `Eclipse.pdf`
-2. Configure as variáveis de ambiente JAVA_HOME
+2. Configure para seu sistema operativo, podendo variar um pouco 
 3. Verifique a instalação: `java -version`
 
 #### 📱 Android (Termux)
@@ -80,14 +57,14 @@ AULAS DE REFORÇO/
 2. Execute no Termux:
    ```bash
    pkg update && pkg upgrade
-   pkg install openjdk-17
+   pkg install openjdk-17 ou superior
    ```
 
 ### ▶️ Executando os Códigos
 
 ```bash
 # Navegar até a pasta do código
-cd "caminho/para/o/ficheiro"
+cd "caminho para o ficheiro"
 
 # Compilar ficheiro Java
 javac NomeDoficheiro.java
@@ -96,35 +73,9 @@ javac NomeDoficheiro.java
 java NomeDoficheiro
 ```
 
-## 📚 Conteúdo Programático
-
-### 📋 **Aula 1: Preparação do Ambiente**
-- ✅ Instalação do JDK
-- ✅ Configuração do Eclipse
-- ✅ Alternativa mobile (Termux)
-- ✅ Primeiro programa "Hello World"
-
-### 📊 **Aula 2: Variáveis e Tipos**
-- ✅ Declaração e inicialização de variáveis
-- ✅ Tipos primitivos: `int`, `double`, `boolean`, `char`, `byte`, `short`, `long`, `float`
-- ✅ Conversão entre tipos (casting)
-- ✅ Convenções de nomenclatura (camelCase)
-
-### 🔢 **Módulo 3: Operadores**
-- ✅ **Aritméticos:** `+`, `-`, `*`, `/`, `%`
-- ✅ **Relacionais:** `==`, `!=`, `>`, `<`, `>=`, `<=`
-- ✅ **Lógicos:** `&&`, `||`, `!`
-- ✅ **Atribuição:** `=`, `+=`, `-=`, `*=`, `/=`
-
-### 🔀 **Módulo 4: Estruturas Condicionais**
-- ✅ Comando `if` / `else`
-- ✅ Estrutura `switch` / `case`
-- 🔄 Operador ternário `? :`
-- ✅ Condições aninhadas
-
 ## 📞 Suporte e Recursos
 
-### 🆘 **Para Dúvidas:**
+### **Para Dúvidas:**
 1. Consulte o material teórico da aula correspondente
 2. Analise os códigos de exemplo
 3. Pratique com os exercícios disponíveis
@@ -136,22 +87,13 @@ java NomeDoficheiro
 - [Tutorial Eclipse](https://www.eclipse.org/getting_started/)
 - [Termux Wiki](https://wiki.termux.com/wiki/Main_Page)
 
-## 📈 Próximos Passos
-
-Após completar este módulo, você estará preparado para:
-
-- 🔄 **Estruturas de Repetição** (`for`, `while`, `do-while`)
-- 📊 **Arrays**
-- 🏗️ **Métodos** (Classes, Objetos, Herança)
-- 🛠️ **Projetos Práticos**
-
 ## 🏆 Progresso das aulas
 
-- [x] ✅ Aula 01 - Instalação
-- [x] ✅ Aula 02 - Variáveis  
-- [x] ✅ Aula 03 - Operadores
-- [x] ✅ Aula 04 - Estruturas Condicionais
-- [ ] ⏳ Próximas aulas...
+- [x] Aula 01 - Instalação
+- [x] Aula 02 - Variáveis  
+- [x] Aula 03 - Operadores
+- [x] Aula 04 - Estruturas Condicionais
+- [ ] Próximas aulas...
 
 ## Lecionador
 Anselmo Nhamage
